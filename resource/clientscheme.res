@@ -2395,7 +2395,56 @@ Scheme
 				"additive"	"0"
 			}
 		}
-
+	
+		BikoRegular12
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular16
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular24
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular32
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BikoRegular42
+		{
+			"1"
+			{
+				"name"		"Biko"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -4301,6 +4350,21 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		}			
+		}
+		"7"
+		{
+			"font" "resource/fonts/Biko_Regular.otf"
+			"name" "Biko"
+		}
+		"8"
+		{
+			"font" "resource/fonts/Biko_Bold.otf"
+			"name" "Biko-Bold"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Biko_Black.otf"
+			"name" "Biko-Black"
+		}
 	}
 }
